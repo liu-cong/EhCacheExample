@@ -1,0 +1,4 @@
+/opt/workspace/EhCacheExample/src/main/java/com/toptal/blog/cache/CustomCacheManager.java
+/opt/workspace/EhCacheExample/src/main/java/com/toptal/blog/service/interfaces/IDataService.java
+/opt/workspace/EhCacheExample/src/main/java/com/toptal/blog/SpringRestControllerWithEhCache.java
+/opt/workspace/EhCacheExample/src/main/java/com/toptal/blog/service/DataService.java

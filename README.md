@@ -1,2 +1,2 @@
 # EhCacheExample
-a sample project to integrate ehcache with spring restful web service
+This is a sample project to integrate EhCache with Spring using EhCache Spring Annotations.
